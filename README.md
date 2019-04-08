@@ -1,3 +1,5 @@
+## Fork of https://github.com/Luka313/integrator-cordova-plugin-downloader to extend some functionality for my own use. ##
+
 Android Downloader Cordova plugin
 ========
 
